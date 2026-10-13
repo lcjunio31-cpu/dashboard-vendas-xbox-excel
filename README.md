@@ -1,6 +1,6 @@
 # Dashboard de vendas de assinaturas Xbox Game Pass no Excel
 
-Dashboard em Excel que transforma a base de assinaturas do desafio em indicadores e gráficos que respondem a perguntas de negócio. Tudo é calculado por fórmulas: ao trocar um filtro, os indicadores, os textos de resposta e os gráficos se atualizam.
+Dashboard de vendas de assinaturas Xbox Game Pass feito em Excel: filtros por plano, tipo e renovação automática, seis indicadores e quatro gráficos que respondem a perguntas de negócio, tudo por fórmulas. Projeto do desafio de dashboard de vendas da DIO.
 
 Arquivo principal: [`Dashboard_Xbox.xlsx`](Dashboard_Xbox.xlsx)
 
