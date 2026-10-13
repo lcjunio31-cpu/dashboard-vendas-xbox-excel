@@ -81,7 +81,9 @@ A paleta de cores é a da aba Assets da base original: verdes #22C55E, #2AE6B1, 
 
 ## Aprendizados
 
-(Reescreva com suas palavras.)
+Aprendi a transformar uma base de dados bruta em um dashboard interativo no Excel, utilizando fórmulas como SUMIFS, COUNTIFS, INDEX e MATCH para criar indicadores, filtros dinâmicos e gráficos voltados a perguntas de negócio.
+
+Também desenvolvi habilidades de organização e validação de dados, conferência de valores, análise de faturamento e interpretação de resultados conforme diferentes cenários. O projeto reforçou a importância de garantir a consistência das informações e apresentar dados de forma visual, clara e objetiva, facilitando a identificação de oportunidades e a tomada de decisões baseadas em dados.
 
 ## Estrutura do repositório
 
